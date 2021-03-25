@@ -38,7 +38,7 @@ public class SendEmailService {
     private static Context ctx;
 
     final String username = "capstonemailtest@gmail.com";
-    final String password = "DbsrXMctjr21";
+    final String password = "**********";
 
     Properties prop;
     Session session;
